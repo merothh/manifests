@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/xiaomi/violet" name="android_device_xiaomi_violet" remote="sm6150-dev" revision="lineage-17.1"/>
+</manifest>
