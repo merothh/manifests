@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="merothh" fetch="https://github.com/merothh"/>
+    <remote name="memerothh" fetch="https://gitlab.com/merothh"/>
+    <remote name="pig.priv" fetch="https://gitlab.com/pig.priv"/>
+    <remote name="sm6150-dev" fetch="https://github.com/sm6150-dev"/>
+</manifest>
